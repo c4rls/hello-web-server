@@ -1,6 +1,6 @@
 # Checklist
 
-- [ ] Add documentation.
+- [x] Add documentation.
 - [ ] Add tests of the library’s functionality.
 - [ ] Change calls to unwrap to more robust error handling.
 - [ ] Use ThreadPool to perform some task other than serving web requests.
